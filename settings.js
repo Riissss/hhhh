@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-global.creator = 'ohmyriiss'// yourname
+global.creator = 'Zeeoneofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://ohmyriiss:d1G1OlTFs3bJ0EuH@cluster0.0fqcgh8.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "arispurwanto2822@gmail.com" //email
